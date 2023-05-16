@@ -25,17 +25,17 @@ atmosphere–ocean general circulation model,No
 attribution,No
 baseline scenario,No
 battery electric vehicle,No
-bev,Yes
+ bev ,Yes
 biochar,No
 biodiversity,No
 bioenergy,No
 bioenergy with carbon dioxide capture and storage,No
-beccs,Yes
+ beccs ,Yes
 biofuel,No
 biomass,No
 biophilic urbanism,No
 black carbon,No
-bc,Yes
+ bc ,Yes
 blue carbon,No
 burden sharing,No
 effort sharing,No
@@ -43,27 +43,27 @@ business as usual,No
 carbon budget,No
 carbon cycle,No
 carbon dioxide,No
-co2,Yes
+ co2 ,Yes
 carbon dioxide capture and storage,No
-ccs,Yes
+ ccs ,Yes
 carbon dioxide capture and utilisation,No
-ccu,Yes
+ ccu ,Yes
 "carbon dioxide capture, utilisation and storage",No
-ccus,Yes
+ ccus ,Yes
 carbon dioxide removal,No
-cdr,Yes
+ cdr ,Yes
 carbon intensity,No
 carbon neutrality,No
 carbon price,No
 carbon sequestration,No
 carbon sink,No
 clean development mechanism,No
-cdm,Yes
+ cdm ,Yes
 climate,No
 climate change,No
 climate change commitment,No
 climate-compatible development,No
-ccd,Yes
+ ccd ,Yes
 climate extreme,No
 extreme weather event,No
 climate event,No
@@ -74,12 +74,12 @@ climate model,No
 climate neutrality,No
 climate projection,No
 climate-resilient development pathways,No
-crdp,Yes
+ crdp ,Yes
 climate-resilient pathways,No
 climate sensitivity,No
 climate services,No
 climate-smart agriculture,No
-csa,Yes
+ csa ,Yes
 climate system,No
 climate target,No
 climate variability,No
@@ -88,7 +88,7 @@ co-benefits,No
 common but differentiated responsibilities and respective capabilities,No
 cbdr-rc,No
 conference of the parties,No
-cop,Yes
+ cop ,Yes
 confidence,No
 conservation agriculture,No
 constant composition commitment,No
@@ -97,7 +97,7 @@ coping capacity,No
 cost–benefit analysis,No
 cost-effectiveness,No
 coupled model intercomparison project,No
-cmip,Yes
+ cmip ,Yes
 cumulative emissions,No
 decarbonization,No
 decoupling,No
@@ -109,7 +109,7 @@ detection,No
 detection and attribution,No
 development pathways,No
 direct air carbon dioxide capture and storage,No
-daccs,Yes
+ daccs ,Yes
 disaster,No
 disaster risk management,No
 discount rate,No
@@ -257,7 +257,7 @@ participatory governance,No
 pathways,No
 peri-urban areas,No
 permafrost,No
-ph,Yes
+ ph ,Yes
 plug-in hybrid electric vehicle,No
 policies,No
 political economy,No
@@ -342,65 +342,65 @@ vulnerability,No
 water cycle,No
 well-being,No
 zero emissions commitment,No
-ai,Yes
-aogcm,Yes
-bau,Yes
-crdps,Yes
-drm,Yes
+ ai ,Yes
+ aogcm ,Yes
+ bau ,Yes
+ crdps ,Yes
+ drm ,Yes
 internal,No
-ews,Yes
-esm,Yes
-enso,Yes
-ev,Yes
+ ews ,Yes
+ esm ,Yes
+ enso ,Yes
+ ev ,Yes
 model,No
-gpt,Yes
-gmst,Yes
-gsat,Yes
-ghg,Yes
-ggr,Yes
-gdp,Yes
-gfcf,Yes
-hvac,Yes
+ gpt ,Yes
+ gmst ,Yes
+ gsat ,Yes
+ ghg ,Yes
+ ggr ,Yes
+ gdp ,Yes
+ gfcf ,Yes
+ hvac ,Yes
 "consequences, outcomes",No
-iluc,Yes
-ict,Yes
-iam,Yes
-iwrm,Yes
-iot,Yes
-luc,Yes
+ iluc ,Yes
+ ict ,Yes
+ iam ,Yes
+ iwrm ,Yes
+ iot ,Yes
+ luc ,Yes
 lulucf,No
-lca,Yes
-llcf,Yes
+ lca ,Yes
+ llcf ,Yes
 maladaptation,No
-mer,Yes
-mrv,Yes
-ch4,Yes
-mdgs,Yes
-m&e,Yes
-ndcs,Yes
-n2o,Yes
-oa,Yes
-o3,Yes
-phev,Yes
+ mer ,Yes
+ mrv ,Yes
+ ch4 ,Yes
+ mdgs ,Yes
+ m&e ,Yes
+ ndcs ,Yes
+ n2o ,Yes
+ oa ,Yes
+ o3 ,Yes
+ phev ,Yes
 for climate change mitigation and adaptation,No
-ppp,Yes
-rfcs,Yes
-redd+,Yes
-rcps,Yes
+ ppp ,Yes
+ rfcs ,Yes
+ redd+ ,Yes
+ rcps ,Yes
 sea level rise,No
 sea level fall,No
-sst,Yes
-ssps,Yes
-slcf,Yes
-slcp,Yes
-sids,Yes
-scc,Yes
-svma,Yes
+ sst ,Yes
+ ssps ,Yes
+ slcf ,Yes
+ slcp ,Yes
+ sids ,Yes
+ scc ,Yes
+ svma ,Yes
 social,No
-scs,Yes
-srm,Yes
-sd,Yes
-sdgs,Yes
-tcre,Yes
-tod,Yes
-unfccc,Yes
+ scs ,Yes
+ srm ,Yes
+ sd ,Yes
+ sdgs ,Yes
+ tcre ,Yes
+ tod ,Yes
+ unfccc ,Yes

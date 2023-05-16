@@ -154,24 +154,24 @@ water vapor,No
 weather,No
 100-year flood levels,No
 or earth system,No
-enso,Yes
-gcm,Yes
-ghg,Yes
-hcfcs,Yes
-hfcs,Yes
-ipcc,Yes
-ch4,Yes
-msw,Yes
-nox,Yes
-n2o,Yes
-nmvocs,Yes
-ods,Yes
-pm,Yes
-ppb,Yes
-ppmv,Yes
-ppt,Yes
-pfcs,Yes
-sf6,Yes
-o3,Yes
-uv,Yes
-unfccc,Yes
+ enso ,Yes
+ gcm ,Yes
+ ghg ,Yes
+ hcfcs ,Yes
+ hfcs ,Yes
+ ipcc ,Yes
+ ch4 ,Yes
+ msw ,Yes
+ nox ,Yes
+ n2o ,Yes
+ nmvocs ,Yes
+ ods ,Yes
+ pm ,Yes
+ ppb ,Yes
+ ppmv ,Yes
+ ppt ,Yes
+ pfcs ,Yes
+ sf6 ,Yes
+ o3 ,Yes
+ uv ,Yes
+ unfccc ,Yes

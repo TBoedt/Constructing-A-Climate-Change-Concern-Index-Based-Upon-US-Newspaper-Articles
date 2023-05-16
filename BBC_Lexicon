@@ -5,8 +5,8 @@ annex i countries,No
 annex ii,No
 anthropogenic climate change,No
 aosis,No
-ar4,Yes
-ar5,Yes
+ ar4 ,Yes
+ ar5 ,Yes
 atmospheric aerosols,No
 bali action plan,No
 bali roadmap,No
@@ -26,11 +26,11 @@ carbon offsetting,No
 carbon sequestration,No
 carbon sink,No
 certified emission reduction,No
-cfcs,Yes
+ cfcs ,Yes
 clean coal technology,No
 clean development mechanism,No
 climate change,No
-co2,Yes
+ co2 ,Yes
 country in transition,No
 dangerous climate change,No
 deforestation,No
@@ -39,7 +39,7 @@ eu burden-sharing agreement,No
 feedback loop,No
 flexible mechanism,No
 fossil fuels,No
-g77,Yes
+ g77 ,Yes
 geological sequestration,No
 global average temperature,No
 global energy budget,No
@@ -49,11 +49,11 @@ global warming potential,No
 greenhouse gases,No
 greenhouse effect,No
 hockey stick,No
-ipcc,Yes
+ ipcc ,Yes
 joint implementation,No
 kyoto protocol,No
-ldcs,Yes
-lulucf,Yes
+ ldcs ,Yes
+ lulucf ,Yes
 major economies forum on energy and climate,No
 methane,No
 mitigation,No
@@ -61,20 +61,20 @@ natural greenhouse effect,No
 non-annex i countries,No
 ocean acidification,No
 per-capita emissions,No
-ppm,Yes
+ ppm ,Yes
 pre-industrial levels of carbon dioxide,No
 renewable energy,No
-redd,Yes
+ redd ,Yes
 stern review,No
 technology transfer,No
 tipping point,No
 twenty-twenty-twenty,No
-unfccc,Yes
-cer,Yes
-cdm,Yes
-ets,Yes
-gwp,Yes
-ghgs,Yes
-ji,Yes
+ unfccc ,Yes
+ cer ,Yes
+ cdm ,Yes
+ ets ,Yes
+ gwp ,Yes
+ ghgs ,Yes
+ ji ,Yes
 350/450,No
 20-20-20,No

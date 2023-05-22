@@ -1,406 +1,344 @@
-Lexicon,Afkorting
-acceptability of policy or system change,No
-adaptability,No
-adaptation,No
-adaptation behaviour,No
-adaptation limits,No
-adaptation options,No
-adaptation pathways,No
-adaptive capacity,No
-adaptive governance,No
-aerosol,No
-afforestation,No
-agreement,No
-air pollution,No
-albedo,No
-ambient persuasive technology,No
-anomaly,No
-anthropocene,No
-anthropogenic,No
-anthropogenic emissions,No
-anthropogenic removals,No
-artificial intelligence,No
-atmosphere,No
-atmosphere–ocean general circulation model,No
-attribution,No
-baseline scenario,No
-battery electric vehicle,No
- bev ,Yes
-biochar,No
-biodiversity,No
-bioenergy,No
-bioenergy with carbon dioxide capture and storage,No
- beccs ,Yes
-biofuel,No
-biomass,No
-biophilic urbanism,No
-black carbon,No
- bc ,Yes
-blue carbon,No
-burden sharing,No
-effort sharing,No
-business as usual,No
-carbon budget,No
-carbon cycle,No
-carbon dioxide,No
- co2 ,Yes
-carbon dioxide capture and storage,No
- ccs ,Yes
-carbon dioxide capture and utilisation,No
- ccu ,Yes
-"carbon dioxide capture, utilisation and storage",No
- ccus ,Yes
-carbon dioxide removal,No
- cdr ,Yes
-carbon intensity,No
-carbon neutrality,No
-carbon price,No
-carbon sequestration,No
-carbon sink,No
-clean development mechanism,No
- cdm ,Yes
-climate,No
-climate change,No
-climate change commitment,No
-climate-compatible development,No
- ccd ,Yes
-climate extreme,No
-extreme weather event,No
-climate event,No
-climate feedback,No
-climate governance,No
-climate justice,No
-climate model,No
-climate neutrality,No
-climate projection,No
-climate-resilient development pathways,No
- crdp ,Yes
-climate-resilient pathways,No
-climate sensitivity,No
-climate services,No
-climate-smart agriculture,No
- csa ,Yes
-climate system,No
-climate target,No
-climate variability,No
-co2 equivalent emission,No
-co-benefits,No
-common but differentiated responsibilities and respective capabilities,No
-cbdr-rc,No
-conference of the parties,No
- cop ,Yes
-confidence,No
-conservation agriculture,No
-constant composition commitment,No
-constant emissions commitment,No
-coping capacity,No
-cost–benefit analysis,No
-cost-effectiveness,No
-coupled model intercomparison project,No
- cmip ,Yes
-cumulative emissions,No
-decarbonization,No
-decoupling,No
-deforestation,No
-deliberative governance,No
-demand- and supply-side measures,No
-demand-side measures,No
-detection,No
-detection and attribution,No
-development pathways,No
-direct air carbon dioxide capture and storage,No
- daccs ,Yes
-disaster,No
-disaster risk management,No
-discount rate,No
-discounting,No
-displacement,No
-disruptive innovation,No
-distributive equity,No
-distributive justice,No
-double dividend,No
-downscaling,No
-drought,No
-early warning systems,No
-earth system feedbacks,No
-earth system model,No
-ecosystem,No
-ecosystem services,No
-effective climate sensitivity,No
-effective radiative forcing,No
-el niño-southern oscillation,No
-electric vehicle,No
-emission pathways,No
-emission scenario,No
-emission trajectories,No
-emissions trading,No
-enabling conditions,No
-energy efficiency,No
-energy security,No
-enhanced weathering,No
-ensemble,No
-equality,No
-equilibrium climate sensitivity,No
-equity,No
-ethics,No
-evidence,No
-exposure,No
-extratropical cyclone,No
-extreme weather or climate event,No
-fairness,No
-feasibility,No
-feasible scenario commitment,No
-feedback,No
-flexible governance,No
-flood,No
-food security,No
-food wastage,No
-forcing,No
-forest,No
-fossil fuels,No
-framework convention on climate change,No
-gender equity,No
-general purpose technologies,No
-geoengineering,No
-glacier,No
-global climate model,No
-global mean surface temperature,No
-global mean surface air temperature,No
-global warming,No
-governance,No
-governance capacity,No
-green infrastructure,No
-greenhouse gas,No
-greenhouse gas removal,No
-gross domestic product,No
-gross fixed capital formation,No
-halocarbons,No
-hazard,No
-heatwave,No
-"heating, ventilation, and air conditioning",No
-holocene,No
-human behaviour,No
-human behavioural change,No
-human rights,No
-human security,No
-human system,No
-hydrological cycle,No
-ice sheet,No
-impact assessment,No
-impacts,No
-incremental adaptation,No
-indigenous knowledge,No
-indirect land-use change,No
-industrial revolution,No
-industrialized/developed/developing countries,No
-inequality,No
-information and communication technology,No
-infrastructure commitment,No
-institution,No
-institutional capacity,No
-integrated assessment,No
-integrated assessment model,No
-integrated water resources management,No
-inter-generational equity,No
-inter-generational justice,No
-internal variability,No
-internet of things,No
-iron fertilization,No
-irreversibility,No
-justice,No
-kyoto protocol,No
-land surface air temperature,No
-land use,No
-land-use change,No
-"land use, land-use change and forestry",No
-life cycle assessment,No
-likelihood,No
-livelihood,No
-local knowledge,No
-lock-in,No
-long-lived climate forcers,No
-"loss and damage, and losses and damages",No
-maladaptive actions,No
-market exchange rate,No
-market failure,No
-"measurement, reporting and verification",No
-megadrought,No
-methane,No
-migrant,No
-migration,No
-millennium development goals,No
-mitigation,No
-mitigation behaviour,No
-mitigation measures,No
-mitigation option,No
-mitigation pathways,No
-mitigation scenario,No
-monitoring and evaluation,No
-motivation,No
-multilevel governance,No
-narratives,No
-nationally determined contributions,No
-negative emissions,No
-net negative emissions,No
-net zero co2 emissions,No
-net zero emissions,No
-nitrous oxide,No
-non-co2 emissions and radiative forcing,No
-non-overshoot pathways,No
-ocean acidification,No
-ocean fertilization,No
-overshoot,No
-overshoot pathways,No
-ozone,No
-paris agreement,No
-participatory governance,No
-pathways,No
-peri-urban areas,No
-permafrost,No
- ph ,Yes
-plug-in hybrid electric vehicle,No
-policies,No
-political economy,No
-poverty,No
-poverty eradication,No
-precursors,No
-pre-industrial,No
-procedural equity,No
-procedural justice,No
-procedural rights,No
-projection,No
-purchasing power parity,No
-radiative forcing,No
-reasons for concern,No
-reducing emissions from deforestation and forest degradation,No
-reference period,No
-reference scenario,No
-reforestation,No
-region,No
-remaining carbon budget,No
-representative concentration pathways,No
-resilience,No
-risk,No
-risk assessment,No
-risk management,No
-risk perception,No
-runoff,No
-scenario,No
-scenario storyline,No
-sdg-interaction score,No
-sea ice,No
-sea level change,No
-sea surface temperature,No
-sendai framework for disaster risk reduction,No
-sequestration,No
-shared socio-economic pathways,No
-short-lived climate forcers,No
-short-lived climate pollutants,No
-sink,No
-small island developing states,No
-social cost of carbon,No
-social costs,No
-social-ecological systems,No
-social inclusion,No
-social justice,No
-social learning,No
-social value of mitigation activities,No
-societal  transformation,No
-socio-economic scenario,No
-socio-technical transitions,No
-soil carbon sequestration,No
-soil moisture,No
-solar radiation management,No
-solar radiation modification,No
-stabilization,No
-stranded assets,No
-stratosphere,No
-sub-national actor,No
-substantive rights,No
-supply-side measures,No
-surface temperature,No
-sustainability,No
-sustainable development,No
-sustainable development goals,No
-technology transfer,No
-temperature overshoot,No
-tipping point,No
-transformation,No
-transformation pathways,No
-transformational adaptation,No
-transformative change,No
-transient climate response,No
-transient climate response to cumulative co2 emissions,No
-transit-oriented development,No
-transition,No
-tropical cyclone,No
-troposphere,No
-uncertainty,No
-united nations framework convention on climate change,No
-uptake,No
-vulnerability,No
-water cycle,No
-well-being,No
-zero emissions commitment,No
- ai ,Yes
- aogcm ,Yes
- bau ,Yes
- crdps ,Yes
- drm ,Yes
-internal,No
- ews ,Yes
- esm ,Yes
- enso ,Yes
- ev ,Yes
-model,No
- gpt ,Yes
- gmst ,Yes
- gsat ,Yes
- ghg ,Yes
- ggr ,Yes
- gdp ,Yes
- gfcf ,Yes
- hvac ,Yes
-"consequences, outcomes",No
- iluc ,Yes
- ict ,Yes
- iam ,Yes
- iwrm ,Yes
- iot ,Yes
- luc ,Yes
-lulucf,No
- lca ,Yes
- llcf ,Yes
-maladaptation,No
- mer ,Yes
- mrv ,Yes
- ch4 ,Yes
- mdgs ,Yes
- m&e ,Yes
- ndcs ,Yes
- n2o ,Yes
- oa ,Yes
- o3 ,Yes
- phev ,Yes
-for climate change mitigation and adaptation,No
- ppp ,Yes
- rfcs ,Yes
- redd+ ,Yes
- rcps ,Yes
-sea level rise,No
-sea level fall,No
- sst ,Yes
- ssps ,Yes
- slcf ,Yes
- slcp ,Yes
- sids ,Yes
- scc ,Yes
- svma ,Yes
-social,No
- scs ,Yes
- srm ,Yes
- sd ,Yes
- sdgs ,Yes
- tcre ,Yes
- tod ,Yes
- unfccc ,Yes
+,Lexicon
+0,acceptability of policy or system change
+1,adaptability
+2,adaptation
+3,adaptation behaviour
+4,adaptation limits
+5,adaptation options
+6,adaptation pathways
+7,adaptive capacity
+8,adaptive governance
+9,aerosol
+10,afforestation
+11,agreement
+12,air pollution
+13,albedo
+14,ambient persuasive technology
+15,anomaly
+16,anthropocene
+17,anthropogenic
+18,anthropogenic emissions
+19,anthropogenic removals
+20,artificial intelligence
+21,atmosphere
+22,atmosphere–ocean general circulation model
+23,attribution
+24,baseline scenario
+25,battery electric vehicle
+26,biochar
+27,biodiversity
+28,bioenergy
+29,bioenergy with carbon dioxide capture and storage
+30,biofuel
+31,biomass
+32,biophilic urbanism
+33,black carbon
+34,blue carbon
+35,burden sharing
+36,effort sharing
+37,business as usual
+38,carbon budget
+39,carbon cycle
+40,carbon dioxide
+41, co2 
+42,carbon dioxide capture and storage
+43,carbon dioxide capture and utilisation
+44,"carbon dioxide capture, utilisation and storage"
+45,carbon dioxide removal
+46,carbon intensity
+47,carbon neutrality
+48,carbon price
+49,carbon sequestration
+50,carbon sink
+51,clean development mechanism
+52,climate
+53,climate change
+54,climate change commitment
+55,climate-compatible development
+56,climate extreme
+57,extreme weather event
+58,climate event
+59,climate feedback
+60,climate governance
+61,climate justice
+62,climate model
+63,climate neutrality
+64,climate projection
+65,climate-resilient development pathways
+66,climate-resilient pathways
+67,climate sensitivity
+68,climate services
+69,climate-smart agriculture
+70,climate system
+71,climate target
+72,climate variability
+73,co2 equivalent emission
+74,co-benefits
+75,common but differentiated responsibilities and respective capabilities
+76,cbdr-rc
+77,conference of the parties
+78, cop 
+79,confidence
+80,conservation agriculture
+81,constant composition commitment
+82,constant emissions commitment
+83,coping capacity
+84,cost–benefit analysis
+85,cost-effectiveness
+86,coupled model intercomparison project
+87,cumulative emissions
+88,decarbonization
+89,decoupling
+90,deforestation
+91,deliberative governance
+92,demand- and supply-side measures
+93,demand-side measures
+94,detection
+95,detection and attribution
+96,development pathways
+97,direct air carbon dioxide capture and storage
+98,disaster
+99,disaster risk management
+100,discount rate
+101,discounting
+102,displacement
+103,disruptive innovation
+104,distributive equity
+105,distributive justice
+106,double dividend
+107,downscaling
+108,drought
+109,early warning systems
+110,earth system feedbacks
+111,earth system model
+112,ecosystem
+113,ecosystem services
+114,effective climate sensitivity
+115,effective radiative forcing
+116,el niño-southern oscillation
+117,electric vehicle
+118,emission pathways
+119,emission scenario
+120,emission trajectories
+121,emissions trading
+122,enabling conditions
+123,energy efficiency
+124,energy security
+125,enhanced weathering
+126,ensemble
+127,equality
+128,equilibrium climate sensitivity
+129,equity
+130,ethics
+131,evidence
+132,exposure
+133,extratropical cyclone
+134,extreme weather or climate event
+135,fairness
+136,feasibility
+137,feasible scenario commitment
+138,feedback
+139,flexible governance
+140,flood
+141,food security
+142,food wastage
+143,forcing
+144,forest
+145,fossil fuels
+146,framework convention on climate change
+147,gender equity
+148,general purpose technologies
+149,geoengineering
+150,glacier
+151,global climate model
+152,global mean surface temperature
+153,global mean surface air temperature
+154,global warming
+155,governance
+156,governance capacity
+157,green infrastructure
+158,greenhouse gas
+159,greenhouse gas removal
+160,gross domestic product
+161,gross fixed capital formation
+162,halocarbons
+163,hazard
+164,heatwave
+165,"heating, ventilation, and air conditioning"
+166,holocene
+167,human behaviour
+168,human behavioural change
+169,human rights
+170,human security
+171,human system
+172,hydrological cycle
+173,ice sheet
+174,impact assessment
+175,impacts
+176,incremental adaptation
+177,indigenous knowledge
+178,indirect land-use change
+179,industrial revolution
+180,industrialized/developed/developing countries
+181,inequality
+182,information and communication technology
+183,infrastructure commitment
+184,institution
+185,institutional capacity
+186,integrated assessment
+187,integrated assessment model
+188,integrated water resources management
+189,inter-generational equity
+190,inter-generational justice
+191,internal variability
+192,internet of things
+193,iron fertilization
+194,irreversibility
+195,justice
+196,kyoto protocol
+197,land surface air temperature
+198,land use
+199,land-use change
+200,"land use, land-use change and forestry"
+201,life cycle assessment
+202,likelihood
+203,livelihood
+204,local knowledge
+205,lock-in
+206,long-lived climate forcers
+207,"loss and damage, and losses and damages"
+208,maladaptive actions
+209,market exchange rate
+210,market failure
+211,"measurement, reporting and verification"
+212,megadrought
+213,methane
+214,migrant
+215,migration
+216,millennium development goals
+217,mitigation
+218,mitigation behaviour
+219,mitigation measures
+220,mitigation option
+221,mitigation pathways
+222,mitigation scenario
+223,monitoring and evaluation
+224,motivation
+225,multilevel governance
+226,narratives
+227,nationally determined contributions
+228,negative emissions
+229,net negative emissions
+230,net zero co2 emissions
+231,net zero emissions
+232,nitrous oxide
+233,non-co2 emissions and radiative forcing
+234,non-overshoot pathways
+235,ocean acidification
+236,ocean fertilization
+237,overshoot
+238,overshoot pathways
+239,ozone
+240,paris agreement
+241,participatory governance
+242,pathways
+243,peri-urban areas
+244,permafrost
+245,plug-in hybrid electric vehicle
+246,policies
+247,political economy
+248,poverty
+249,poverty eradication
+250,precursors
+251,pre-industrial
+252,procedural equity
+253,procedural justice
+254,procedural rights
+255,projection
+256,purchasing power parity
+257,radiative forcing
+258,reasons for concern
+259,reducing emissions from deforestation and forest degradation
+260,reference period
+261,reference scenario
+262,reforestation
+263,region
+264,remaining carbon budget
+265,representative concentration pathways
+266,resilience
+267,risk
+268,risk assessment
+269,risk management
+270,risk perception
+271,runoff
+272,scenario
+273,scenario storyline
+274,sdg-interaction score
+275,sea ice
+276,sea level change
+277,sea surface temperature
+278,sendai framework for disaster risk reduction
+279,sequestration
+280,shared socio-economic pathways
+281,short-lived climate forcers
+282,short-lived climate pollutants
+283,sink
+284,small island developing states
+285,social cost of carbon
+286,social costs
+287,social-ecological systems
+288,social inclusion
+289,social justice
+290,social learning
+291,social value of mitigation activities
+292,societal  transformation
+293,socio-economic scenario
+294,socio-technical transitions
+295,soil carbon sequestration
+296,soil moisture
+297,solar radiation management
+298,solar radiation modification
+299,stabilization
+300,stranded assets
+301,stratosphere
+302,sub-national actor
+303,substantive rights
+304,supply-side measures
+305,surface temperature
+306,sustainability
+307,sustainable development
+308,sustainable development goals
+309,technology transfer
+310,temperature overshoot
+311,tipping point
+312,transformation
+313,transformation pathways
+314,transformational adaptation
+315,transformative change
+316,transient climate response
+317,transient climate response to cumulative co2 emissions
+318,transit-oriented development
+319,transition
+320,tropical cyclone
+321,troposphere
+322,uncertainty
+323,united nations framework convention on climate change
+324,uptake
+325,vulnerability
+326,water cycle
+327,well-being
+328,zero emissions commitment
+329,internal
+330,model
+331, ghg 
+332,"consequences, outcomes"
+333,lulucf
+334,maladaptation
+335, ch4 
+336, n2o 
+337, o3 
+338,for climate change mitigation and adaptation
+339,sea level rise
+340,sea level fall
+341,social
+342, unfccc 

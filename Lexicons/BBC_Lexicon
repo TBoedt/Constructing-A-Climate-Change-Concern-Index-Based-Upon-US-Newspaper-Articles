@@ -1,80 +1,63 @@
-Lexicon,Afkorting
-adaptation,No
-adaptation fund,No
-annex i countries,No
-annex ii,No
-anthropogenic climate change,No
-aosis,No
- ar4 ,Yes
- ar5 ,Yes
-atmospheric aerosols,No
-bali action plan,No
-bali roadmap,No
-baseline for cuts,No
-biofuel,No
-black carbon,No
-business as usual,No
-cap and trade,No
-carbon capture and storage,No
-carbon dioxide,No
-carbon dioxide  equivalent,No
-carbon footprint,No
-carbon intensity,No
-carbon leakage,No
-carbon neutral,No
-carbon offsetting,No
-carbon sequestration,No
-carbon sink,No
-certified emission reduction,No
- cfcs ,Yes
-clean coal technology,No
-clean development mechanism,No
-climate change,No
- co2 ,Yes
-country in transition,No
-dangerous climate change,No
-deforestation,No
-emission trading scheme,No
-eu burden-sharing agreement,No
-feedback loop,No
-flexible mechanism,No
-fossil fuels,No
- g77 ,Yes
-geological sequestration,No
-global average temperature,No
-global energy budget,No
-global dimming,No
-global warming,No
-global warming potential,No
-greenhouse gases,No
-greenhouse effect,No
-hockey stick,No
- ipcc ,Yes
-joint implementation,No
-kyoto protocol,No
- ldcs ,Yes
- lulucf ,Yes
-major economies forum on energy and climate,No
-methane,No
-mitigation,No
-natural greenhouse effect,No
-non-annex i countries,No
-ocean acidification,No
-per-capita emissions,No
- ppm ,Yes
-pre-industrial levels of carbon dioxide,No
-renewable energy,No
- redd ,Yes
-stern review,No
-technology transfer,No
-tipping point,No
-twenty-twenty-twenty,No
- unfccc ,Yes
- cer ,Yes
- cdm ,Yes
- ets ,Yes
- gwp ,Yes
- ghgs ,Yes
- ji ,Yes
-350/450,No
-20-20-20,No
+,Lexicon
+0,adaptation
+1,adaptation fund
+2,annex i countries
+3,annex ii
+4,anthropogenic climate change
+5,aosis
+6,atmospheric aerosols
+7,bali action plan
+8,bali roadmap
+9,baseline for cuts
+10,biofuel
+11,black carbon
+12,business as usual
+13,cap and trade
+14,carbon capture and storage
+15,carbon dioxide
+16,carbon dioxide  equivalent
+17,carbon footprint
+18,carbon intensity
+19,carbon leakage
+20,carbon neutral
+21,carbon offsetting
+22,carbon sequestration
+23,carbon sink
+24,certified emission reduction
+25,clean coal technology
+26,clean development mechanism
+27,climate change
+28,country in transition
+29,dangerous climate change
+30,deforestation
+31,emission trading scheme
+32,eu burden-sharing agreement
+33,feedback loop
+34,flexible mechanism
+35,fossil fuels
+36,geological sequestration
+37,global average temperature
+38,global energy budget
+39,global dimming
+40,global warming
+41,global warming potential
+42,greenhouse gases
+43,greenhouse effect
+44,hockey stick
+45,joint implementation
+46,kyoto protocol
+47,major economies forum on energy and climate
+48,methane
+49,mitigation
+50,natural greenhouse effect
+51,non-annex i countries
+52,ocean acidification
+53,per-capita emissions
+54,pre-industrial levels of carbon dioxide
+55,renewable energy
+56,stern review
+57,technology transfer
+58,tipping point
+59,twenty-twenty-twenty
+60,350/450
+61,20-20-20

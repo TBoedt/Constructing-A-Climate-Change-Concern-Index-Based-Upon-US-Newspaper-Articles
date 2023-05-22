@@ -1,177 +1,156 @@
-Lexicon,Afkorting
-abrupt climate change,No
-adaptation,No
-adaptive capacity,No
-aerosols,No
-afforestation,No
-albedo,No
-alternative energy,No
-annex i countries/parties,No
-anthropogenic,No
-atmosphere,No
-atmospheric lifetime,No
-biofuels,No
-biogeochemical cycle,No
-biomass,No
-biosphere,No
-black carbon aerosol,No
-borehole,No
-carbon cycle,No
-carbon dioxide,No
-carbon dioxide equivalent,No
-carbon dioxide fertilization,No
-carbon footprint,No
-carbon sequestration,No
-carbon capture and sequestration,No
-chlorofluorocarbons,No
-climate,No
-climate change,No
-climate feedback,No
-climate lag,No
-climate model,No
-climate sensitivity,No
-climate system,No
-coal mine methane,No
-coalbed methane,No
-co-benefit,No
-concentration,No
-conference of the parties,No
-coral bleaching,No
-cryosphere,No
-deforestation,No
-desertification,No
-dryland farming,No
-eccentricity,No
-ecosystem,No
-el niño - southern oscillation,No
-emissions,No
-emissions factor,No
-energy efficiency,No
-energy star,No
-enhanced greenhouse effect,No
-enteric fermentation,No
-evaporation,No
-evapotranspiration,No
-feedback mechanisms,No
-fluorinated gases,No
-fluorocarbons,No
-forcing mechanism,No
-fossil fuel,No
-fuel switching,No
-general circulation model,No
-geosphere,No
-glacier,No
-global average temperature,No
-global warming,No
-global warming potential,No
-greenhouse effect,No
-greenhouse gas,No
-habitat fragmentation,No
-halocarbons,No
-heat island,No
-heat waves,No
-hydrocarbons,No
-hydrochlorofluorocarbons,No
-hydrofluorocarbons,No
-hydrologic cycle,No
-hydrosphere,No
-ice core,No
-indirect emissions,No
-industrial revolution,No
-infrared radiation,No
-intergovernmental panel on climate change,No
-inundation,No
-landfill,No
-latitude,No
-least developed country,No
-longwave radiation,No
-megacities,No
-methane,No
-metric ton,No
-mitigation,No
-mount pinatubo,No
-municipal solid waste,No
-natural gas,No
-natural variability,No
-nitrogen cycle,No
-nitrogen oxides,No
-nitrous oxide,No
-non-methane volatile organic compounds,No
-ocean acidification,No
-oxidize,No
-ozone,No
-ozone depleting substance,No
-ozone layer,No
-ozone precursors,No
-particulate matter,No
-parts per billion,No
-parts per million by volume,No
-parts per trillion,No
-perfluorocarbons,No
-permafrost,No
-phenology,No
-photosynthesis,No
-precession,No
-radiation,No
-radiative forcing,No
-recycling,No
-reflectivity,No
-reforestation,No
-relative sea level rise,No
-renewable energy,No
-residence time,No
-resilience,No
-respiration,No
-salt water intrusion,No
-scenarios,No
-sea surface temperature,No
-sensitivity,No
-short ton,No
-sink,No
-snowpack,No
-soil carbon,No
-solar radiation,No
-storm surge,No
-stratosphere,No
-stratospheric ozone,No
-streamflow,No
-subsiding/subsidence,No
-sulfate aerosols,No
-sulfur hexafluoride,No
-teragram,No
-thermal expansion,No
-thermohaline circulation,No
-trace gas,No
-troposphere,No
-tropospheric ozone,No
-tropospheric ozone precursors,No
-tundra,No
-ultraviolet radiation,No
-united nations framework convention on climate change,No
-vulnerability,No
-wastewater,No
-water vapor,No
-weather,No
-100-year flood levels,No
-or earth system,No
- enso ,Yes
- gcm ,Yes
- ghg ,Yes
- hcfcs ,Yes
- hfcs ,Yes
- ipcc ,Yes
- ch4 ,Yes
- msw ,Yes
- nox ,Yes
- n2o ,Yes
- nmvocs ,Yes
- ods ,Yes
- pm ,Yes
- ppb ,Yes
- ppmv ,Yes
- ppt ,Yes
- pfcs ,Yes
- sf6 ,Yes
- o3 ,Yes
- uv ,Yes
- unfccc ,Yes
+,Lexicon
+0,abrupt climate change
+1,adaptation
+2,adaptive capacity
+3,aerosols
+4,afforestation
+5,albedo
+6,alternative energy
+7,annex i countries/parties
+8,anthropogenic
+9,atmosphere
+10,atmospheric lifetime
+11,biofuels
+12,biogeochemical cycle
+13,biomass
+14,biosphere
+15,black carbon aerosol
+16,borehole
+17,carbon cycle
+18,carbon dioxide
+19,carbon dioxide equivalent
+20,carbon dioxide fertilization
+21,carbon footprint
+22,carbon sequestration
+23,carbon capture and sequestration
+24,chlorofluorocarbons
+25,climate
+26,climate change
+27,climate feedback
+28,climate lag
+29,climate model
+30,climate sensitivity
+31,climate system
+32,coal mine methane
+33,coalbed methane
+34,co-benefit
+35,concentration
+36,conference of the parties
+37,coral bleaching
+38,cryosphere
+39,deforestation
+40,desertification
+41,dryland farming
+42,eccentricity
+43,ecosystem
+44,el niño - southern oscillation
+45,emissions
+46,emissions factor
+47,energy efficiency
+48,energy star
+49,enhanced greenhouse effect
+50,enteric fermentation
+51,evaporation
+52,evapotranspiration
+53,feedback mechanisms
+54,fluorinated gases
+55,fluorocarbons
+56,forcing mechanism
+57,fossil fuel
+58,fuel switching
+59,general circulation model
+60,geosphere
+61,glacier
+62,global average temperature
+63,global warming
+64,global warming potential
+65,greenhouse effect
+66,greenhouse gas
+67,habitat fragmentation
+68,halocarbons
+69,heat island
+70,heat waves
+71,hydrocarbons
+72,hydrochlorofluorocarbons
+73,hydrofluorocarbons
+74,hydrologic cycle
+75,hydrosphere
+76,ice core
+77,indirect emissions
+78,industrial revolution
+79,infrared radiation
+80,intergovernmental panel on climate change
+81,inundation
+82,landfill
+83,latitude
+84,least developed country
+85,longwave radiation
+86,megacities
+87,methane
+88,metric ton
+89,mitigation
+90,mount pinatubo
+91,municipal solid waste
+92,natural gas
+93,natural variability
+94,nitrogen cycle
+95,nitrogen oxides
+96,nitrous oxide
+97,non-methane volatile organic compounds
+98,ocean acidification
+99,oxidize
+100,ozone
+101,ozone depleting substance
+102,ozone layer
+103,ozone precursors
+104,particulate matter
+105,parts per billion
+106,parts per million by volume
+107,parts per trillion
+108,perfluorocarbons
+109,permafrost
+110,phenology
+111,photosynthesis
+112,precession
+113,radiation
+114,radiative forcing
+115,recycling
+116,reflectivity
+117,reforestation
+118,relative sea level rise
+119,renewable energy
+120,residence time
+121,resilience
+122,respiration
+123,salt water intrusion
+124,scenarios
+125,sea surface temperature
+126,sensitivity
+127,short ton
+128,sink
+129,snowpack
+130,soil carbon
+131,solar radiation
+132,storm surge
+133,stratosphere
+134,stratospheric ozone
+135,streamflow
+136,subsiding/subsidence
+137,sulfate aerosols
+138,sulfur hexafluoride
+139,teragram
+140,thermal expansion
+141,thermohaline circulation
+142,trace gas
+143,troposphere
+144,tropospheric ozone
+145,tropospheric ozone precursors
+146,tundra
+147,ultraviolet radiation
+148,united nations framework convention on climate change
+149,vulnerability
+150,wastewater
+151,water vapor
+152,weather
+153,100-year flood levels
+154,or earth system

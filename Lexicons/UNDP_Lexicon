@@ -1,48 +1,47 @@
-Lexicon,Afkorting
-weather,No
-climate,No
-greenhouse gases,No
-greenhouse gas emmisions,No
-global warming,No
-climate change,No
-climate crisis,No
-feedback loop,No
-tipping point,No
-climate overshoot,No
-mitigation,No
-adaptation,No
-resilience,No
-carbon footprint,No
-climate justice,No
-nature-based solutions,No
-indigenous knowledge,No
-loss and damage,No
-climate security,No
-climate finance,No
-net zero,No
-decarbonization,No
-renewable energy,No
-carbon sink,No
-carbon removal,No
-carbon capture,No
-carbon markets,No
-regenerative agriculture,No
-reforestation,No
-afforestation,No
-rewilding,No
-circular economy,No
-blue economy,No
-green jobs,No
-greenwashing,No
-just transition,No
- unfccc ,Yes
-conference of the parties,No
- cop ,Yes
-paris agreement,No
-nationally determined contributions,No
-transparent reporting,No
-transparency,No
-national adaptation plans,No
-long-term strategies,No
- redd+ ,Yes
-intergovernmental panel on climate change,No
+,Lexicon
+0,weather
+1,climate
+2,greenhouse gases
+3,greenhouse gas emmisions
+4,global warming
+5,climate change
+6,climate crisis
+7,feedback loop
+8,tipping point
+9,climate overshoot
+10,mitigation
+11,adaptation
+12,resilience
+13,carbon footprint
+14,climate justice
+15,nature-based solutions
+16,indigenous knowledge
+17,loss and damage
+18,climate security
+19,climate finance
+20,net zero
+21,decarbonization
+22,renewable energy
+23,carbon sink
+24,carbon removal
+25,carbon capture
+26,carbon markets
+27,regenerative agriculture
+28,reforestation
+29,afforestation
+30,rewilding
+31,circular economy
+32,blue economy
+33,green jobs
+34,greenwashing
+35,just transition
+36, unfccc 
+37,conference of the parties
+38, cop 
+39,paris agreement
+40,nationally determined contributions
+41,transparent reporting
+42,transparency
+43,national adaptation plans
+44,long-term strategies
+46,intergovernmental panel on climate change

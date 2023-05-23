@@ -1,156 +1,154 @@
-,Lexicon
-0,abrupt climate change
-1,adaptation
-2,adaptive capacity
-3,aerosols
-4,afforestation
-5,albedo
-6,alternative energy
-7,annex i countries/parties
-8,anthropogenic
-9,atmosphere
-10,atmospheric lifetime
-11,biofuels
-12,biogeochemical cycle
-13,biomass
-14,biosphere
-15,black carbon aerosol
-16,borehole
-17,carbon cycle
-18,carbon dioxide
-19,carbon dioxide equivalent
-20,carbon dioxide fertilization
-21,carbon footprint
-22,carbon sequestration
-23,carbon capture and sequestration
-24,chlorofluorocarbons
-25,climate
-26,climate change
-27,climate feedback
-28,climate lag
-29,climate model
-30,climate sensitivity
-31,climate system
-32,coal mine methane
-33,coalbed methane
-34,co-benefit
-35,concentration
-36,conference of the parties
-37,coral bleaching
-38,cryosphere
-39,deforestation
-40,desertification
-41,dryland farming
-42,eccentricity
-43,ecosystem
-44,el niño - southern oscillation
-45,emissions
-46,emissions factor
-47,energy efficiency
-48,energy star
-49,enhanced greenhouse effect
-50,enteric fermentation
-51,evaporation
-52,evapotranspiration
-53,feedback mechanisms
-54,fluorinated gases
-55,fluorocarbons
-56,forcing mechanism
-57,fossil fuel
-58,fuel switching
-59,general circulation model
-60,geosphere
-61,glacier
-62,global average temperature
-63,global warming
-64,global warming potential
-65,greenhouse effect
-66,greenhouse gas
-67,habitat fragmentation
-68,halocarbons
-69,heat island
-70,heat waves
-71,hydrocarbons
-72,hydrochlorofluorocarbons
-73,hydrofluorocarbons
-74,hydrologic cycle
-75,hydrosphere
-76,ice core
-77,indirect emissions
-78,industrial revolution
-79,infrared radiation
-80,intergovernmental panel on climate change
-81,inundation
-82,landfill
-83,latitude
-84,least developed country
-85,longwave radiation
-86,megacities
-87,methane
-88,metric ton
-89,mitigation
-90,mount pinatubo
-91,municipal solid waste
-92,natural gas
-93,natural variability
-94,nitrogen cycle
-95,nitrogen oxides
-96,nitrous oxide
-97,non-methane volatile organic compounds
-98,ocean acidification
-99,oxidize
-100,ozone
-101,ozone depleting substance
-102,ozone layer
-103,ozone precursors
-104,particulate matter
-105,parts per billion
-106,parts per million by volume
-107,parts per trillion
-108,perfluorocarbons
-109,permafrost
-110,phenology
-111,photosynthesis
-112,precession
-113,radiation
-114,radiative forcing
-115,recycling
-116,reflectivity
-117,reforestation
-118,relative sea level rise
-119,renewable energy
-120,residence time
-121,resilience
-122,respiration
-123,salt water intrusion
-124,scenarios
-125,sea surface temperature
-126,sensitivity
-127,short ton
-128,sink
-129,snowpack
-130,soil carbon
-131,solar radiation
-132,storm surge
-133,stratosphere
-134,stratospheric ozone
-135,streamflow
-136,subsiding/subsidence
-137,sulfate aerosols
-138,sulfur hexafluoride
-139,teragram
-140,thermal expansion
-141,thermohaline circulation
-142,trace gas
-143,troposphere
-144,tropospheric ozone
-145,tropospheric ozone precursors
-146,tundra
-147,ultraviolet radiation
-148,united nations framework convention on climate change
-149,vulnerability
-150,wastewater
-151,water vapor
-152,weather
-153,100-year flood levels
-154,or earth system
+,Unnamed: 0,Lexicon
+0,0,abrupt climate change
+1,1,adaptation
+2,2,adaptive capacity
+3,3,aerosols
+4,4,afforestation
+5,5,albedo
+6,6,alternative energy
+7,7,annex i countries/parties
+8,8,anthropogenic
+9,9,atmosphere
+10,10,atmospheric lifetime
+11,11,biofuels
+12,12,biogeochemical cycle
+13,13,biomass
+14,14,biosphere
+15,15,black carbon aerosol
+16,16,borehole
+17,17,carbon cycle
+18,18,carbon dioxide
+19,19,carbon dioxide equivalent
+20,20,carbon dioxide fertilization
+21,21,carbon footprint
+22,22,carbon sequestration
+23,23,carbon capture and sequestration
+24,24,chlorofluorocarbons
+25,25,climate
+26,26,climate change
+27,27,climate feedback
+28,28,climate lag
+29,29,climate model
+30,30,climate sensitivity
+31,31,climate system
+32,32,coal mine methane
+33,33,coalbed methane
+34,34,co-benefit
+35,35,concentration
+36,36,conference of the parties
+37,37,coral bleaching
+38,38,cryosphere
+39,39,deforestation
+40,40,desertification
+41,41,dryland farming
+42,42,eccentricity
+43,43,ecosystem
+44,44,el niño - southern oscillation
+45,45,emissions
+46,46,emissions factor
+47,47,energy efficiency
+48,48,energy star
+49,49,enhanced greenhouse effect
+50,50,enteric fermentation
+51,51,evaporation
+52,52,evapotranspiration
+53,53,feedback mechanisms
+54,54,fluorinated gases
+55,55,fluorocarbons
+56,56,forcing mechanism
+57,57,fossil fuel
+58,58,fuel switching
+59,59,general circulation model
+60,60,geosphere
+61,61,glacier
+62,62,global average temperature
+63,63,global warming
+64,64,global warming potential
+65,65,greenhouse effect
+66,66,greenhouse gas
+67,67,habitat fragmentation
+68,68,halocarbons
+69,69,heat island
+70,70,heat waves
+71,71,hydrocarbons
+72,72,hydrochlorofluorocarbons
+73,73,hydrofluorocarbons
+74,74,hydrologic cycle
+75,75,hydrosphere
+76,76,ice core
+77,77,indirect emissions
+78,78,industrial revolution
+79,79,infrared radiation
+80,80,intergovernmental panel on climate change
+81,81,inundation
+82,82,landfill
+84,84,least developed country
+85,85,longwave radiation
+86,86,megacities
+87,87,methane
+88,88,metric ton
+89,89,mitigation
+90,90,mount pinatubo
+91,91,municipal solid waste
+92,92,natural gas
+93,93,natural variability
+94,94,nitrogen cycle
+95,95,nitrogen oxides
+96,96,nitrous oxide
+97,97,non-methane volatile organic compounds
+98,98,ocean acidification
+99,99,oxidize
+100,100,ozone
+101,101,ozone depleting substance
+102,102,ozone layer
+103,103,ozone precursors
+104,104,particulate matter
+105,105,parts per billion
+106,106,parts per million by volume
+107,107,parts per trillion
+108,108,perfluorocarbons
+109,109,permafrost
+110,110,phenology
+111,111,photosynthesis
+112,112,precession
+113,113,radiation
+114,114,radiative forcing
+115,115,recycling
+116,116,reflectivity
+117,117,reforestation
+118,118,relative sea level rise
+119,119,renewable energy
+120,120,residence time
+121,121,resilience
+122,122,respiration
+123,123,salt water intrusion
+124,125,sea surface temperature
+125,126,sensitivity
+126,127,short ton
+127,128,sink
+128,129,snowpack
+129,130,soil carbon
+130,131,solar radiation
+131,132,storm surge
+132,133,stratosphere
+133,134,stratospheric ozone
+134,135,streamflow
+135,136,subsiding/subsidence
+136,137,sulfate aerosols
+137,138,sulfur hexafluoride
+138,139,teragram
+139,140,thermal expansion
+140,141,thermohaline circulation
+141,142,trace gas
+142,143,troposphere
+143,144,tropospheric ozone
+144,145,tropospheric ozone precursors
+145,146,tundra
+146,147,ultraviolet radiation
+147,148,united nations framework convention on climate change
+148,149,vulnerability
+149,150,wastewater
+150,151,water vapor
+151,152,weather
+152,153,100-year flood levels
+153,154,or earth system
